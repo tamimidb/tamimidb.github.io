@@ -1,0 +1,55 @@
+/* div{
+    text-align: center;
+    background: rgb(50, 175, 33);
+}
+
+.ent-jour{
+    text-align: center;
+    background-image:orange;
+}
+.my-ent{
+
+    text-align: center;
+    color-adjust: black;
+}
+.mas{
+    text-align: center;
+    text-shadow: 2px;
+  
+} */
+
+
+
+
+.html{
+  text-align: center;
+}
+.css{
+  text-align: center;
+  background-color: white;
+  font-size: medium;
+}
+.javascript{
+  text-align: center;
+}
+.microsoft-office{
+  text-align: center;
+}
+
+* {box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: cyan;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: orange;
+}
+.html {width: 90%; text-shadow: maroon; height: 2px;}
+.css {width: 80%; }
+.js {width: 65%; 
+.php {width: 60%; }
